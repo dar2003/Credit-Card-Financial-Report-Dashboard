@@ -6,10 +6,10 @@
 **Key Features:**
 
 
-1 .Visual representation of key financial metrics including 57M total revenue, 8M total interest, and 588M total income.
+1.Visual representation of key financial metrics including 57M total revenue, 8M total interest, and 588M total income.
 
 
-2. Breakdown of 667K transactions, analyzing revenue by customer job, education, age group, and state, identifying high-value segments.
+2.Breakdown of 667K transactions, analyzing revenue by customer job, education, age group, and state, identifying high-value segments.
 
 
 3. Quarterly performance analysis with dynamic filters for Q1 to Q4, showcasing revenue and transaction trends.
