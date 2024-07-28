@@ -12,7 +12,7 @@
 2.Breakdown of 667K transactions, analyzing revenue by customer job, education, age group, and state, identifying high-value segments.
 
 
-3. Quarterly performance analysis with dynamic filters for Q1 to Q4, showcasing revenue and transaction trends.
+3.Quarterly performance analysis with dynamic filters for Q1 to Q4, showcasing revenue and transaction trends.
 
 
 **Technologies Used:** Power BI for data visualization, incorporating advanced DAX functions and custom visuals to deliver an intuitive and informative dashboard.
